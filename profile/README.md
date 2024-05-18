@@ -13,6 +13,9 @@ A comprehensive observability platform that provides a single pane of glass for 
 ### Synclyn
 An app hosting service that is changing the way developers host applications forever. With Synclyn, you can effortlessly upload, launch, and share apps without the need for your own servers. It has never been easier to host your projects and software while providing users with the best ping in every region.
 
+### AuthFrame
+AuthFrame is a cutting-edge authentication platform designed to simplify and secure your application’s user authentication processes. AuthFrame provides robust features for user management, seamless integration, and top-notch security, making it an indispensable tool for modern developers.
+
 ## Community Building
 In addition to developing affordable software, XO-6 also wants to build a community. For this purpose, they have created a website that aims to help users with everyday problems with hardware and software. The goal is to save users from having to search through thousands of forums for hours to find a solution.
 
