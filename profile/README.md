@@ -7,13 +7,14 @@ XO-6 strives to make software and web applications accessible to individuals and
 ## Products and Services
 XO-6 manages the following software projects, among others:
 
-### [Upronix](https://www.github.com/UpronixApp) 
+
+### ![Upronix Logo](https://avatars.githubusercontent.com/u/159083527?v=4&s=20) [Upronix](https://www.github.com/Synclyn) 
 A comprehensive observability platform that provides a single pane of glass for monitoring, telemetry, and status pages. Upronix helps you collect and visualize data from all your systems and applications, so you can quickly identify and resolve issues.
 
-### [Synclyn](https://www.github.com/Synclyn) 
+### ![Synclyn Logo](https://avatars.githubusercontent.com/u/143539126?v=4&s=20) [Synclyn](https://www.github.com/Synclyn) 
 An app hosting service that is changing the way developers host applications forever. With Synclyn, you can effortlessly upload, launch, and share apps without the need for your own servers. It has never been easier to host your projects and software while providing users with the best ping in every region.
 
-### [AuthFrame](https://www.github.com/AuthFrame) 
+### ![AuthFrame Logo](https://avatars.githubusercontent.com/u/170134633?v=4&s=20) [AuthFrame](https://www.github.com/AuthFrame) 
 AuthFrame is a cutting-edge authentication platform designed to simplify and secure your application’s user authentication processes. AuthFrame provides robust features for user management, seamless integration, and top-notch security, making it an indispensable tool for modern developers.
 
 ## Community Building
