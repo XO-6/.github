@@ -8,7 +8,7 @@ XO-6 strives to make software and web applications accessible to individuals and
 XO-6 manages the following software projects, among others:
 
 
-### ![Upronix Logo](https://avatars.githubusercontent.com/u/159083527?v=4&s=20) [Upronix](https://www.github.com/Synclyn) 
+### ![Upronix Logo](https://avatars.githubusercontent.com/u/159083527?v=4&s=20) [Upronix](https://www.github.com/UpronixApp) 
 A comprehensive observability platform that provides a single pane of glass for monitoring, telemetry, and status pages. Upronix helps you collect and visualize data from all your systems and applications, so you can quickly identify and resolve issues.
 
 ### ![Synclyn Logo](https://avatars.githubusercontent.com/u/143539126?v=4&s=20) [Synclyn](https://www.github.com/Synclyn) 
