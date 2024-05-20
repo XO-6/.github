@@ -1,4 +1,4 @@
-# XO-6
+# XO-6 Studio
 XO-6 is a German software company founded on March 23, 2024. The company's mission is to bring affordable software and web applications to the market for everyone.
 
 ## Vision
